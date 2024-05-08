@@ -8,3 +8,5 @@ This repository comprises a ROS package named lab1_pkg, having the following dep
 It has two ROS nodes written in python:
 1. talker.py
 2. relay.py
+
+And a launch file (lab1_launch) also written in python
